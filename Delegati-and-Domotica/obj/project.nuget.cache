@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzceAXRF3VlqL3D2Z/x1k0w+Dle6KixuXUu01iQf/S8ZOZKEVMH5GFAOKXp5DQxaBBr6e1RJ2nnfymgych/zJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9698022\\source\\repos\\Delegati-and-Domotica\\Delegati-and-Domotica\\Delegati-and-Domotica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9698022\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698022\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698022\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698022\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
