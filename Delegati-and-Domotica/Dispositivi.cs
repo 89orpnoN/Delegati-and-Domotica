@@ -21,10 +21,19 @@ namespace Delegati_and_Domotica
     }
     internal class Phone
     {
-        private bool InviaEmail()
+        private event SendStatusEventHandler? _inviaEmail ;
+        private bool InviaEmail(int valore, string messaggio)
+        {
+            _inviaEmail(valore, messaggio);
+
+            return _inviaEmail != null;
+        }
     }
     internal class Watch
     {
-
+        void scrivi(int valore,string unita)
+        {
+            Console.WriteLine($"{valore} {unita}");
+        }
     }
 }
